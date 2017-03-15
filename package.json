@@ -4,7 +4,7 @@
   "description": "Log inline without breaking things",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "node tests.js"
   },
   "repository": {
     "type": "git",
